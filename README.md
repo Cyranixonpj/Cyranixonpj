@@ -17,7 +17,7 @@ Below you can find game dev projects I worked on with a short description of wha
 
 # 1 Tales of the Pirate Bay
 A simple platformer game developed by a team of four, for 6week project. All the assets come from [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog. It was my first game dev project and I am very proud of it, although I would probably aproach it differently now. Here you can find short trailer of the game:
-* [TRAILER](<iframe width="785" height="443" src="https://www.youtubeeducation.com/embed/zgZepnRnUHc" title="6-weeks game presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+* [TRAILER](https://www.youtubeeducation.com/embed/zgZepnRnUHc)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cyranixonpj&icon=0&color=0)](https://visitcount.itsvg.in)
