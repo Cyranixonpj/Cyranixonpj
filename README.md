@@ -38,7 +38,7 @@ Parts of the game I was responsible for:
 * Player movement including scripts and animations
 * Levels polishing and testing
 
-# 3. Need more UPUP
+# 3. [Need more UPUP](https://github.com/Cyranixonpj/Pjatk_GameJam_2024)
 Top down pixel art shooter game inspired by "Hotline miami" series. Created during 2024 PJATK Game Jam by a team of 4 programmists and 2 artists. Below you can find short video presenting game narrative and gameplay.
 * [Video](https://www.youtube.com/watch?v=mQ1bZkmIaV8&ab_channel=SzczurekMaurycy)
 
