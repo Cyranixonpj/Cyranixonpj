@@ -9,8 +9,8 @@
 🔧 Level Designer<br/>
 💻 Game Mechanics Programmer<br/>
 
-Below you can find game dev projects that I've worked on:<br/>
-![Tales of the Pirate Bay](https://github.com/Cyranixonpj/2024_12c_02_6week)
+Below you can find pinned game dev projects that I've worked on:<br/>
+
 
 
 # 💻 Tech Stack:
