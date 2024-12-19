@@ -10,7 +10,7 @@
 💻 Game Mechanics Programmer<br/>
 
 Below you can find game dev projects that I've worked on:<br/>
-![Tales of the Pirate Bay(Tales of the Pirate Bay](https://github.com/Cyranixonpj/2024_12c_02_6week)
+![Tales of the Pirate Bay](https://github.com/Cyranixonpj/2024_12c_02_6week)
 
 
 # 💻 Tech Stack:
