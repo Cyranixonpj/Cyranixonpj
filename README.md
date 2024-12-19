@@ -4,10 +4,12 @@
 
 🏫 3rd year Computer Science student<br/>
 🔭 Currently working on video game which is my engineering thesis<br/>
-🎮 Video games enthusiast<br/>
+🎮 Video games and f1 enthusiast<br/>
 ✏️ Game Designer<br/>
 🔧 Level Designer<br/>
 💻 Game Mechanics Programmer<br/>
+
+Below you can find game dev projects that I've worked on:<br/>
 
 
 # 💻 Tech Stack:
