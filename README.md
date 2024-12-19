@@ -2,7 +2,7 @@
 <!--Level 1: Simple bio and stats-->
 ## Hi, I'm Aleksander!
 
-🏫 3rd year Computer Science student<br/>
+🏫 3rd year [Computer Science](https://pja.edu.pl/informatyka/) student<br/>
 🔭 Currently working on video game which is my engineering thesis<br/>
 🎮 Video games and f1 enthusiast<br/>
 ✏️ Game Designer<br/>
