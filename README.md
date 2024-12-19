@@ -30,7 +30,7 @@ Parts of the game that I made:
 * Game Tutorial
 * Participated in Game Design Document creation
 
-# 2. The Castle 
+# 2. [The Castle](https://github.com/Cyranixonpj/Culture_Jam_Austria_2024) 
 An old-school adventure game created during a 24-hour [Culture Jam: Austria](https://itch.io/jam/culture-jam-austria). Development team consisted of 4 programmers, 2 designers and 4 artists. Here you can find [itch.io](https://romulus162.itch.io/the-castle) page with working game build which I suggest to download as .zip file for better experience.  
 
 Parts of the game I was responsible for:
