@@ -33,6 +33,26 @@ Parts of the game that I made:
 # 2. The Castle 
 An old-school adventure game created during a 24-hour [Culture Jam: Austria](https://itch.io/jam/culture-jam-austria). Development team consisted of 4 programmers, 2 designers and 4 artists. Here you can find [itch.io](https://romulus162.itch.io/the-castle) page with working game build which I suggest to download as .zip file for better experience.  
 
+Parts of the game I was responsible for:
+* Main menu and Pause menu UI scripts and Sounds
+* Player movement including scripts and animations
+* Levels polishing and testing
+
+# 3. Need more UPUP
+Top down pixel art shooter game inspired by "Hotline miami" series. Created during 2024 PJATK Game Jam by a team of 4 programmists and 2 artists. Below you can find short video presenting game narrative and gameplay.
+* [Video](https://www.youtube.com/watch?v=mQ1bZkmIaV8&ab_channel=SzczurekMaurycy)
+
+Parts of the game I was responsible for:
+* Game design
+* Mechanics design
+* Player movement script
+* Player shooting script
+* Enemies patrolling script
+* Enemies shooting script
+* Bullets Visual effects
+* Whole game lightning system 
+  
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Cyranixonpj&icon=0&color=0)](https://visitcount.itsvg.in)
 
