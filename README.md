@@ -8,8 +8,10 @@
 ✏️ Game Designer<br/>
 🔧 Level Designer<br/>
 💻 Game Mechanics Programmer<br/>
-
-Below you can find pinned game dev projects that I've worked on:<br/>
+@settings { 
+  font-size: 100;
+}
+Below you can find pinned game dev projects that I've worked on<br/>
 
 
 
