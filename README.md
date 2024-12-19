@@ -15,7 +15,7 @@
 # 📕 Portfolio 
 Below you can find game dev projects I worked on with a short description of what I was responsible for in creation process of those games.😊
 
-# 1. Tales of the Pirate Bay
+# 1. [Tales of the Pirate Bay](https://github.com/Cyranixonpj/2024_12c_02_6week)
 A simple platformer game developed by a team of four, for 6week project. All the assets come from [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog. It was my first game dev project and I am very proud of it, although I would probably aproach it differently now.<br/>
 
 Parts of the game that I made:
