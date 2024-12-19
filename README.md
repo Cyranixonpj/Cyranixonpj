@@ -16,7 +16,7 @@
 Below you can find game dev projects I worked on with a short description of what I was responsible for in creation process of those games.😊
 
 # 1. [Tales of the Pirate Bay](https://github.com/Cyranixonpj/2024_12c_02_6week)
-A simple platformer game developed by a team of four, for 6week project. All the assets come from [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog. It was my first game dev project and I am very proud of it, although I would probably aproach it differently now.<br/>
+A simple platformer game developed by a team of four, for 6week project. All the assets come from [Treasure Hunters](https://pixelfrog-assets.itch.io/treasure-hunters) asset pack created by Pixel Frog. It was my first game dev project and I am very proud of it, although I would probably aproach it differently now. Here you can find [itch.io](https://vicki11.itch.io/tales-of-the-pirate-bay) page with game trailer and playable game build<br/>
 
 Parts of the game that I made:
 * LEVEL 1 design
@@ -39,7 +39,7 @@ Parts of the game I was responsible for:
 * Levels polishing and testing
 
 # 3. [Need more UPUP](https://github.com/Cyranixonpj/Pjatk_GameJam_2024)
-Top down pixel art shooter game inspired by "Hotline miami" series. Created during 2024 PJATK Game Jam by a team of 4 programmists and 2 artists. Below you can find short video presenting game narrative and gameplay. Also on [itch.io](https://vicki11.itch.io/need-more-upup) page there is a playable build of the game which is suggested to be downloaded as a .zip file. 
+Top down pixel art shooter game inspired by "Hotline miami" series. Created during 2024 PJATK Game Jam by a team of 4 programmists and 2 artists. Below you can find short video presenting game narrative and gameplay. Also on [itch.io](https://vicki11.itch.io/need-more-upup) page there is a playable build of the game which is suggested to be downloaded as a .zip file for better experience. 
 * [Video](https://www.youtube.com/watch?v=mQ1bZkmIaV8&ab_channel=SzczurekMaurycy)
 
 Parts of the game I was responsible for:
