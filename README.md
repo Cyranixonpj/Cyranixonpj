@@ -5,9 +5,8 @@
 🏫 3rd year [Computer Science](https://pja.edu.pl/informatyka/) student<br/>
 🔭 Currently working on video game which is my engineering thesis<br/>
 🎮 Video games and f1 enthusiast<br/>
-✏️ Game Designer<br/>
+✏️ Quest Designer<br/>
 🔧 Level Designer<br/>
-💻 Game Mechanics Programmer<br/>
 📧 aleksander.cyrangg@gmail.com
 
 # 💻 Tech Stack:
