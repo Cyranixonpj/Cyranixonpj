@@ -35,6 +35,7 @@ Parts of the game that I made:
 An old-school adventure game created during a 24-hour [Culture Jam: Austria](https://itch.io/jam/culture-jam-austria). The Game story is based on unfinished novel written by Franz Kafka. Development team consisted of 4 programmers, 2 designers and 4 artists. Here you can find [itch.io](https://romulus162.itch.io/the-castle) page with working game build which I suggest to download as .zip file for better experience.  
 
 Parts of the game I was responsible for:
+* Narrative design
 * Main menu and Pause menu UI scripts and Sounds
 * Player movement including scripts and animations
 * Levels polishing and testing
@@ -44,7 +45,7 @@ Top down pixel art shooter game inspired by "Hotline miami" series. Created duri
 * [Video](https://www.youtube.com/watch?v=mQ1bZkmIaV8&ab_channel=SzczurekMaurycy)
 
 Parts of the game I was responsible for:
-* Game design
+* Whole Game design and concept
 * Mechanics design
 * Player movement script
 * Player shooting script
